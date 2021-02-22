@@ -3,13 +3,14 @@
 
 ### Markdown
 
-This website uses the Markdown language
+This website uses the Markdown
 
-## Languages
+### Languages
 
 - Python
 - Java
 - JavaScript
 
+### Project Links
 
 
