@@ -3,7 +3,13 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website uses the Markdown language
+
+## Languages
+
+- Python
+- Java
+- JavaScript
 
 
 
