@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Jack Nolley Bio</title>
@@ -20,13 +19,12 @@
 			<h2>Anna D Derbakova</h2>
 
 			<!-- Headshot image -->
-			<img id="bio-image" src="img/headshot.png" alt="Anna D Derbkova headshot">
+			<img id="bio-image" src="img/headshot.png" alt="Jack Nolley Headshot">
 
 			<!-- Paragraph with embedded link -->
 			<h3>Software Engineer / IBM Blockchain</h3>
 			<p>
-				Anna Derbakova is a software engineer for the IBM Blockchain team. She is a contributor to the Linux Foundation Hyperledger project and spends time designing and implementing new API and SDK functionality. She is passionate about open source and enjoys working with developers who build applications with the Hyperledger platform. In her spare time Anna is involved in outreach initiatives and particularly enjoys teaching robotics workshops to children.
-			</p>
+				I am a freshman Software Enineering Student at the University of Nebraska- Lincoln. I love learning new software processes and languages in class. Doing projects that have real world applications and seem useful is my favorite part about being a Software student. I am passionate about finding ways to use my Software Skills outside of the class setting. I am involved with Husker Athletics as a middle distance runner on the track team and spend my time 
 		</section>
 
 		<!-- Section 2: Contact Information -->
@@ -35,8 +33,8 @@
 			<h2>Contact Information</h2>
 			
 			<ul>
-				<li><strong>Email:</strong> <a href="mailto:anya@cs.unc.edu">anya@cs.unc.edu</a></li>
-				<li><strong>Github:</strong> <a href="https://github.com/angrbrd">https://github.com/angrbrd</a></li>
+				<li><strong>Email:</strong> <a href="mailto:jackmnolley@gmail.com">jackmnolley@gmail.com</a></li>
+				<li><strong>Github:</strong> <a href="https://github.com/Jnolley">https://github.com/Jnolley</a></li>
 				<li><strong>Portfolio:</strong> <a href="#">Coming Soon!</a></li>
 			</ul>
 
