@@ -4,7 +4,7 @@
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body style="background-color:grey;">
+<body style="background-color:LightGrey;">
 
 	<!-- Site Header -->
 	<header>
