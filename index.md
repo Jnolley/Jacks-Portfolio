@@ -37,10 +37,7 @@
 			</ul>
 
 		</section>
-	</div>
 
-</body>
-</html>
   
   
 
