@@ -17,10 +17,6 @@
 
 <div id="Bio" class="tabcontent">
   <h3>Bio</h3>
-  <p>London is the capital city of England.</p>
-</div>
-	</header>
-
 	<div class="container">
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
@@ -36,6 +32,10 @@
 			<h3>Software Engineer Student / University of Nebraska</h3>
 			<p>
 				I am a freshman Software Enineering Student at the University of Nebraska- Lincoln. I love learning new software processes and languages in class. Doing projects that have real world applications and seem useful is my favorite part about being a Software student. I am passionate about finding ways to use my Software Skills outside of the class setting. I am involved with Husker Athletics as a middle distance runner on the track team and spend my time 
+</div>
+	</header>
+
+
 
 		<!-- Section 2: Contact Information -->
 		<section id="contact-info">
