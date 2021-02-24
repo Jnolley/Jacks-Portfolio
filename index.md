@@ -22,7 +22,7 @@
 			img{
 			border-radius:50%;
 			}
-			<embed src="https://media-exp1.licdn.com/dms/image/C4D03AQH50CiVvRXzrw/profile-displayphoto-shrink_800_800/0/1587652846289?e=1619654400&v=beta&t=mfIh8EvHTb3HS0cZsqab5rNAp1UBDNffxG1-NqXYMkM" alt="Avatar" style="width:100px">
+			<embed src="https://media-exp1.licdn.com/dms/image/C4D03AQH50CiVvRXzrw/profile-displayphoto-shrink_800_800/0/1587652846289?e=1619654400&v=beta&t=mfIh8EvHTb3HS0cZsqab5rNAp1UBDNffxG1-NqXYMkM" alt="Avatar" style="width:200px">
 
 			<!-- Paragraph with embedded link -->
 			<h3>Software Engineer Student / University of Nebraska</h3>
