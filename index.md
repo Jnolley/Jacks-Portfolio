@@ -9,7 +9,7 @@
 	<!-- Site Header -->
 	<header>
 		<!-- h1: The most important headline (only one allowed per page by W3C standards) -->
-		<h1>Student Profile Page</h1>
+		<h1>Jack's Profile Page</h1>
 	</header>
 
 	<div class="container">
