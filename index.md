@@ -1,8 +1,7 @@
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body style="background-color:LightGrey;">
-<body style="background-color:BurntCoral;">
+<body style="background-color:#E9897E;">
 
 	<!-- Site Header -->
 	<header>
