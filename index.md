@@ -10,6 +10,15 @@
 	<header>
 		<!-- h1: The most important headline (only one allowed per page by W3C standards) -->
 		<h1>Jack's Profile Page</h1>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Bio')">Bio</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+</div>
+
+<div id="Bio" class="tabcontent">
+  <h3>Bio</h3>
+  <p>London is the capital city of England.</p>
+</div>
 	</header>
 
 	<div class="container">
