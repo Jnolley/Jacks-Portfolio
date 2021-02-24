@@ -11,7 +11,7 @@
 		<h1>Jack Nolley</h1>
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Bio')">Bio</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, '2')">@</button>
 </div>
 
 <div id="Bio" class="tabcontent">
@@ -29,6 +29,10 @@
 			<p>
 				I am a freshman Software Enineering Student at the University of Nebraska- Lincoln. I love learning new software processes and languages in class. Doing projects that have real world applications and seem useful is my favorite part about being a Software student. I am passionate about finding ways to use my Software Skills outside of the class setting. I am involved with Husker Athletics as a middle distance runner on the track team and spend my time 
 </div></h3>
+
+<div id="Bio" class="tabcontent">
+	<h3>L<h3>
+<div>
 
 	</header>
 
