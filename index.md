@@ -4,7 +4,11 @@
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
+<<<<<<< HEAD
 <body style="background-color:#E9897E;">
+=======
+<body style="background-color:LightGrey;">
+>>>>>>> parent of 07ff7f9... Background color BurntCoral
 
 	<header>
 
