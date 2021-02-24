@@ -16,7 +16,7 @@
 		<!-- Section 1: Biography -->
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h2>Anna D Derbakova</h2>
+			<h2>Jack M Nolley</h2>
 
 			<!-- Headshot image -->
 			<img id="bio-image" src="img/headshot.png" alt="Jack Nolley Headshot">
@@ -35,7 +35,6 @@
 			<ul>
 				<li><strong>Email:</strong> <a href="mailto:jackmnolley@gmail.com">jackmnolley@gmail.com</a></li>
 				<li><strong>Github:</strong> <a href="https://github.com/Jnolley">https://github.com/Jnolley</a></li>
-				<li><strong>Portfolio:</strong> <a href="#">Coming Soon!</a></li>
 			</ul>
 
 		</section>
