@@ -1,6 +1,6 @@
 
 <body style="background-color:#E9897E;">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<header>
 		<!-- h1: The most important headline (only one allowed per page by W3C standards) -->
 		<h1>Jack's Profile Page</h1>
