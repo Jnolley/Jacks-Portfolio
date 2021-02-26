@@ -20,3 +20,18 @@
 				<li><strong>Github:</strong> <a href="https://github.com/Jnolley">https://github.com/Jnolley</a></li>
 			</ul>
 		</section>
+		
+		<section id="Languages and Experience">
+			<h2>Languages and Experience</h2>
+			- Python
+			- Java
+			- JavaScript
+			- CSS
+			- Use of VCS
+		</section>
+		
+		</section>
+		<section id=Resume Download">
+		<h2>Resume<h2>
+		
+		</section>
