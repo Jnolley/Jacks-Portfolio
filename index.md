@@ -24,13 +24,13 @@
 		<section id="Languages and Experience">
 			<h2>Languages and Experience</h2>
 			<ul>
-			<li>Python<li>
-			<li>Java<li>
-			<li>JavaScript<li>
-			<li>CSS<li>
-			<li>Use of VCS<li>
+			<li>Python
+			<li>Java
+			<li>JavaScript
+			<li>CSS
+			<li>Use of VCS
 			<ul>
-		</section>
+
 
 		<h2>Resume<h2>
 		
