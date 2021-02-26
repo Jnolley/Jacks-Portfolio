@@ -33,4 +33,5 @@
 
 
 		<h2>Resume<h2>
+		<li><strong>Resume Download</strong> <a href=</a></li>
 		
